@@ -1,0 +1,7 @@
+name: Kho
+version: '${project.version}'
+main: me.sfclog.kho.Main
+commands:
+  kho:
+
+
